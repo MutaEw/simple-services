@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<title>EXPRESS SERVICES</title> 
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/master.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/index.js"></script>
+    </head>
+    <div class="jumbotron">  
+        <h1>SAFARICOM EXPRESS SERVICES</h1>
+        <p>Welcome to express services kindly select a service and continue</p>
+      </div>
+      <body>
+        
+        <div class="container">
+          <div class="row">
+          <div class="identify col-">
+          <h2>IDENTIFIED</h2>
+      <img src="images/.jpeg" width="200px"; height="200px" alt="This is the picture of the customer">
+    
+    <div class="content">
+    <ul>
+    <li>NAME : ERIC W. MUTA</li> 
+    <li>SEX : MALE</li>
+    <li>D.O.B : 10/10/1990</li>
+
+      </ul>
+      </div>
+    </div>
+
+      <div class="computation col-">
+        
+        <form name="myForm" onsubmit="getFormValues()">
+        SELECT SERVICES
+        <br>
+        <button type="button" class="colorBtn" id="SIM-REPLACEMENT" name="service" value="sim-replacement" checked="checked"> sim-replacement</br>
+        </button>
+    
+        <button type="button" class="colorBtn" id="M-PESA STATEMENT" name="service" value="m-pesa statement" checked="checked">m-pesa statement</br>
+        </button>
+        <br>
+              <p> SAFARICOM SIMPLE, TRANSPARENT & HONEST </p>
+    
+        </div>
+      </div>
+      <div class="card-footer">
+        <p>created by emuta & myator 2020</p>
+      </div>
+    </body>
+</html>

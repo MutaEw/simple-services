@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<title>EXPRESS SERVICES</title> 
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/master.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/index.js"></script>
+    </head>
+    <div class="jumbotron">  
+        <h1>SIM-REPLACEMENT</h1>
+        <p>kindly select the number would like to replace and continue</p>
+      </div>
+      <body>
+        
+        <div class="container">
+          <div class="row">
+          <div class="identify col-">
+          <h2>REGISTERED NUMBERS</h2>
+
+    
+    <div class="content">
+    
+         <ul>
+    <li>NAME : ERIC W. MUTA</li> 
+    
+      </ul>
+      </div>
+    </div>
+
+      <div class="computation col-">
+        
+        <form name="myForm" onsubmit="getFormValues()">
+        SELECT NUMBER TO REPLACE
+        <br>
+        <button type="button" class="colorBtn" id="0722001234" name="msisdn" value="msisdn" checked="checked"> 0722001234</br>
+        </button>
+    
+        <button type="button" class="colorBtn" id="01123456" name="service" value="m-pesa statement" checked="checked">01123456</br>
+        </button>
+        <br>
+   
+      
+      <p> SAFARICOM SIMPLE, TRANSPARENT & HONEST </p>
+    
+        </div>
+      </div>
+      <div class="card-footer">
+        <p>created by emuta & myator 2020</p>
+      </div>
+    </body>
+</html>
