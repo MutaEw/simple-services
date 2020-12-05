@@ -5,8 +5,8 @@
 <meta charset="utf-8">
 <title>EXPRESS SERVICES</title> 
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-<link href="css/master.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/index.js"></script>
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/main.js"></script>
     </head>
     <div class="jumbotron">  
         <h1>SAFARICOM EXPRESS SERVICES</h1>
@@ -36,10 +36,10 @@
         SELECT SERVICES
         <br>
         <button type="button" class="colorBtn" id="SIM-REPLACEMENT" name="service" value="sim-replacement" checked="checked"> sim-replacement</br>
-        </button>
+        ><a href="sim-replacement.html">sim-replacement></button>
     
         <button type="button" class="colorBtn" id="M-PESA STATEMENT" name="service" value="m-pesa statement" checked="checked">m-pesa statement</br>
-        </button>
+        ><a href="m-pesa statement.html">m-pesa statement></button>
         <br>
               <p> SAFARICOM SIMPLE, TRANSPARENT & HONEST </p>
     
